@@ -2,6 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> Now we have a Chinese version available [here](https://lidongyuan.notion.site/chart-survey)!
+
 ## Why is Chart Comprehension a Unique Challenge?
 Chart images are not just "visual inputs"; they are "visual expressions of structured data."
 
